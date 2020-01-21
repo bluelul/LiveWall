@@ -1,0 +1,26 @@
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\bin\Release\LiveWall.exe.config
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\bin\Release\LiveWall.exe
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\bin\Release\LiveWall.pdb
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\obj\x86\Release\LiveWall.Form1.resources
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\obj\x86\Release\LiveWall.Properties.Resources.resources
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\obj\x86\Release\LiveWall.csproj.GenerateResource.Cache
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\obj\x86\Release\LiveWall.exe
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\obj\x86\Release\LiveWall.pdb
+C:\Users\lttung1197\Desktop\LiveWall - Copy\LiveWall\bin\Release\LiveWall.exe.config
+C:\Users\lttung1197\Desktop\LiveWall - Copy\LiveWall\obj\x86\Release\LiveWall.exe
+C:\Users\lttung1197\Desktop\LiveWall - Copy\LiveWall\obj\x86\Release\LiveWall.pdb
+C:\Users\lttung1197\Desktop\LiveWall - Copy\LiveWall\bin\Release\LiveWall.exe
+C:\Users\lttung1197\Desktop\LiveWall - Copy\LiveWall\bin\Release\LiveWall.pdb
+C:\Users\lttung1197\Desktop\LiveWall - Copy\LiveWall\obj\x86\Release\LiveWall.Form1.resources
+C:\Users\lttung1197\Desktop\LiveWall - Copy\LiveWall\obj\x86\Release\LiveWall.Properties.Resources.resources
+C:\Users\lttung1197\Desktop\LiveWall - Copy\LiveWall\obj\x86\Release\LiveWall.csproj.GenerateResource.Cache
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\obj\x86\Release\LiveWall.csprojResolveAssemblyReference.cache
+C:\Users\lttung1197\Desktop\LiveWallx\LiveWall\bin\Release\LiveWall.exe.config
+C:\Users\lttung1197\Desktop\LiveWallx\LiveWall\obj\x86\Release\LiveWall.exe
+C:\Users\lttung1197\Desktop\LiveWallx\LiveWall\obj\x86\Release\LiveWall.pdb
+C:\Users\lttung1197\Desktop\LiveWallx\LiveWall\bin\Release\LiveWall.exe
+C:\Users\lttung1197\Desktop\LiveWallx\LiveWall\bin\Release\LiveWall.pdb
+C:\Users\lttung1197\Desktop\LiveWallx\LiveWall\obj\x86\Release\LiveWall.csprojResolveAssemblyReference.cache
+C:\Users\lttung1197\Desktop\LiveWallx\LiveWall\obj\x86\Release\LiveWall.Form1.resources
+C:\Users\lttung1197\Desktop\LiveWallx\LiveWall\obj\x86\Release\LiveWall.Properties.Resources.resources
+C:\Users\lttung1197\Desktop\LiveWallx\LiveWall\obj\x86\Release\LiveWall.csproj.GenerateResource.Cache

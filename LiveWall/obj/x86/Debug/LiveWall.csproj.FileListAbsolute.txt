@@ -1,0 +1,9 @@
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\bin\Debug\LiveWall.exe
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\bin\Debug\LiveWall.pdb
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\obj\x86\Debug\LiveWall.Form1.resources
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\obj\x86\Debug\LiveWall.Properties.Resources.resources
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\obj\x86\Debug\LiveWall.csproj.GenerateResource.Cache
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\obj\x86\Debug\LiveWall.exe
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\obj\x86\Debug\LiveWall.pdb
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\obj\x86\Debug\LiveWall.csprojResolveAssemblyReference.cache
+C:\Users\lttung1197\Desktop\LiveWall\LiveWall\bin\Debug\LiveWall.exe.config
